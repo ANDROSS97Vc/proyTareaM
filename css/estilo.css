@@ -1,0 +1,180 @@
+*{
+    margin: 0px;
+}
+body{
+    background-color: beige;
+}
+.carita{
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    width: 200px;
+    height: 200px;
+    border-radius: 500px;
+    border-width: 5px;
+    position: relative;
+    top: 150px;
+    left: 250px;
+}
+.pancita{
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    width: 350px;
+    height: 350px;
+    border-radius: 300px;
+    border-width: 5px;
+    position: absolute;
+    left: 180px;
+    top: 350px;
+}
+.baja{
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    width: 450px;
+    height: 300px;
+    border-radius: 250px;
+    border-width: 5px;
+    position: absolute;
+    left: 140px;
+    top: 700px;
+}
+.ojito1{
+    background-color: black;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    width: 30px;
+    height: 30px;
+    border-radius: 200px;
+    position: absolute;
+    top: 60px;
+    left: 40px;
+}
+.ojito2{
+    background-color: black;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    width: 30px;
+    height: 30px;
+    border-radius: 200px;
+    position: absolute;
+    top: 60px;
+    right: 40px;
+}
+.dentro{
+    background-color: white;
+    width: 20px;
+    height: 20px;
+    border-radius: 100px;
+}
+.naricita{
+    background-color: orange;
+    width: 30px;
+    height: 15px;
+    transform: skew(45deg) rotate(45deg);
+    position: absolute;
+    top: 110px;
+    left: 90px;
+}
+.boton1{
+    background-color: black;
+    border-radius: 100px;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 150px;
+    top: 50px;
+}
+.boton2{
+    background-color: black;
+    border-radius: 100px;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 150px;
+    top: 150px;
+}
+.boton3{
+    background-color: black;
+    border-radius: 100px;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 150px;
+    top: 250px;
+}
+.boquita{
+    background-color: orange;
+    width: 90px;
+    height: 10px;
+    position: absolute;
+    left: 50px;
+    top: 150px;
+}
+.manita1{
+    background-color: orange;
+    width: 200px;
+    height: 15px;
+    transform: rotate(30deg);
+    border-style: solid;
+    border-color: black;
+    border-radius: 20px;
+    border-width: 1px;
+    position: absolute;
+    top: 450px;
+}
+.manita2{
+    background-color: orange;
+    width: 200px;
+    height: 15px;
+    transform: rotate(-30deg);
+    border-style: solid;
+    border-color: black;
+    border-radius: 20px;
+    border-width: 1px;
+    position: absolute;
+    top: 450px;
+    left: 520px;
+}
+.sombrerito{
+    background-color: chocolate;
+    height: 50px;
+    width: 250px;
+    border-radius: 200px;
+    position: absolute;
+    left: 230px;
+    top: 120px;
+}
+.sombrerito1{
+    background-color: chocolate;
+    height: 50px;
+    width: 100px;
+    position: absolute;
+    left: 300px;
+    top: 80px;
+    border-radius: 10px;
+
+}
+.diente1{
+    background-color: gainsboro;
+    /*border-style: solid;
+    border-color: black;
+    border-width: 1px;*/
+    width: 40px;
+    height: 10px;
+    position: absolute;
+    left: 50px;
+    top: 160px;
+}
+.nombre{
+    position: absolute;
+    left: 90px;
+    top: 130px;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
